@@ -1,0 +1,22 @@
+{
+  "name": "mongodb-backup-routine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pedrobarrostech/mongodb-backup-routine.git"
+  },
+  "author": "Pedro Barros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedrobarrostech/mongodb-backup-routine/issues"
+  },
+  "homepage": "https://github.com/pedrobarrostech/mongodb-backup-routine#readme",
+  "dependencies": {
+    "shelljs": "^0.7.5"
+  }
+}
